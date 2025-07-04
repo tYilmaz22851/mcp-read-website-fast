@@ -1,6 +1,6 @@
 {
   "name": "mcp-read-website-fast",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Quickly reads webpages and converts to markdown for fast, token efficient web scraping",
   "main": "src/index.ts",
   "scripts": {
